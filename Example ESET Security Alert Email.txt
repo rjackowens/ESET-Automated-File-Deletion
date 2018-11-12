@@ -1,0 +1,5 @@
+Computer infected: TEST-SERVER
+Program that generated alert: Kernel
+Infected File: C:\Users\username\AppData\Local\Microsoft\Windows\infectedfile.htm
+Virus Name: HTML/W32.Mydoom.r worm
+Time of Occurence: 11/6/2018 0:31:07 AM
